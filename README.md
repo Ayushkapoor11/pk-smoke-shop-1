@@ -7,7 +7,7 @@
 
 ## 🌐 Live Site
 
-Hosted via GitHub Pages → [View Site](https://YOUR-USERNAME.github.io/pk-smoke-shop/)
+Hosted via GitHub Pages → [View Site](https://ayushkapoor11.github.io/pk-smoke-shop-1/) 
 
 ---
 
